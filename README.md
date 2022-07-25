@@ -22,7 +22,12 @@ And thats all!
 
 ## **Requirements**
   
-    Zenipy python module 
+* Zenipy python module
+* PyCryptodome python module
 
+```bash
+sudo pip install Zenipy
+sudo pip install PyCryptodome
+```
 ### **Notes**
 As this script works with FactorDB API, N from Public Key should be a factorizable.
